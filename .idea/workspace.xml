@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f5e8c59-0bd8-47c9-881a-ac2226d83aa5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/GALAI-PPA.015a6ee3779812f321a3.ttf" afterPath="$PROJECT_DIR$/client/GALAI-PPA.015a6ee3779812f321a3.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Montserrat-Regular.9c46095118380d38f12e.ttf" afterPath="$PROJECT_DIR$/client/Montserrat-Regular.9c46095118380d38f12e.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Raleway-bold.575e4317521b381ac94c.ttf" afterPath="$PROJECT_DIR$/client/Raleway-bold.575e4317521b381ac94c.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Raleway-regular.580d0778ad254335be45.ttf" afterPath="$PROJECT_DIR$/client/Raleway-regular.580d0778ad254335be45.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/ZonaPro-Bold.6c7b5fc65a96aea76a41.otf" afterPath="$PROJECT_DIR$/client/ZonaPro-Bold.6c7b5fc65a96aea76a41.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/ZonaPro-Thin.ea88a6c0ca929958a8b7.otf" afterPath="$PROJECT_DIR$/client/ZonaPro-Thin.ea88a6c0ca929958a8b7.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/GALAI-PPA.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/GALAI-PPA.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/Montserrat-Regular.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/Montserrat-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/Raleway-Bold.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/Raleway-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/Raleway-Regular.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/Raleway-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/ZonaPro-Bold.otf" afterPath="$PROJECT_DIR$/client/assets/fonts/ZonaPro-Bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/ZonaPro-Thin.otf" afterPath="$PROJECT_DIR$/client/assets/fonts/ZonaPro-Thin.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/galan-ppa.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/galan-ppa.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/fonts/optima-aia.ttf" afterPath="$PROJECT_DIR$/client/assets/fonts/optima-aia.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/btn-ver-mas.jpg" afterPath="$PROJECT_DIR$/client/assets/images/btn-ver-mas.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/carroza2.png" afterPath="$PROJECT_DIR$/client/assets/images/carroza2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/cremacion.png" afterPath="$PROJECT_DIR$/client/assets/images/cremacion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/down-scroll.png" afterPath="$PROJECT_DIR$/client/assets/images/down-scroll.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/exhumacion.png" afterPath="$PROJECT_DIR$/client/assets/images/exhumacion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/fondo.png" afterPath="$PROJECT_DIR$/client/assets/images/fondo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/header.jpg" afterPath="$PROJECT_DIR$/client/assets/images/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/header_boton01.png" afterPath="$PROJECT_DIR$/client/assets/images/header_boton01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/header_boton02.png" afterPath="$PROJECT_DIR$/client/assets/images/header_boton02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/header_boton03.png" afterPath="$PROJECT_DIR$/client/assets/images/header_boton03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-01.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-02.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-03.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-04.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-05.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-banner-06.png" afterPath="$PROJECT_DIR$/client/assets/images/home-banner-06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/home-contigo-en-esos-momentos.png" afterPath="$PROJECT_DIR$/client/assets/images/home-contigo-en-esos-momentos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/inhumacion.png" afterPath="$PROJECT_DIR$/client/assets/images/inhumacion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/loading-2.gif" afterPath="$PROJECT_DIR$/client/assets/images/loading-2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/loading.gif" afterPath="$PROJECT_DIR$/client/assets/images/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/login_bg.jpg" afterPath="$PROJECT_DIR$/client/assets/images/login_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/logo.png" afterPath="$PROJECT_DIR$/client/assets/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/logo_A.png" afterPath="$PROJECT_DIR$/client/assets/images/logo_A.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/logo_funerales_altamira.png" afterPath="$PROJECT_DIR$/client/assets/images/logo_funerales_altamira.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/logo_funerales_altamira_blanco.png" afterPath="$PROJECT_DIR$/client/assets/images/logo_funerales_altamira_blanco.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/obituarioBG.png" afterPath="$PROJECT_DIR$/client/assets/images/obituarioBG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/obituarioBefore.png" afterPath="$PROJECT_DIR$/client/assets/images/obituarioBefore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/obituariosAfter.png" afterPath="$PROJECT_DIR$/client/assets/images/obituariosAfter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/ondas.png" afterPath="$PROJECT_DIR$/client/assets/images/ondas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/previsiones_beneficios.jpg" afterPath="$PROJECT_DIR$/client/assets/images/previsiones_beneficios.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/previsiones_fondo.jpg" afterPath="$PROJECT_DIR$/client/assets/images/previsiones_fondo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/previsiones_logo.png" afterPath="$PROJECT_DIR$/client/assets/images/previsiones_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/previsiones_planes.jpg" afterPath="$PROJECT_DIR$/client/assets/images/previsiones_planes.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/servicios-adicionales.png" afterPath="$PROJECT_DIR$/client/assets/images/servicios-adicionales.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/servicios-bg.png" afterPath="$PROJECT_DIR$/client/assets/images/servicios-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/signo-mas.png" afterPath="$PROJECT_DIR$/client/assets/images/signo-mas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/spinner.gif" afterPath="$PROJECT_DIR$/client/assets/images/spinner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/sucursal_ejercito.jpg" afterPath="$PROJECT_DIR$/client/assets/images/sucursal_ejercito.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/sucursal_matriz.jpg" afterPath="$PROJECT_DIR$/client/assets/images/sucursal_matriz.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/traslados.png" afterPath="$PROJECT_DIR$/client/assets/images/traslados.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/favicon.ico" afterPath="$PROJECT_DIR$/client/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fondo.645cfda5a726b6ed7418.png" afterPath="$PROJECT_DIR$/client/fondo.645cfda5a726b6ed7418.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fontawesome-webfont.674f50d287a8c48dc19b.eot" afterPath="$PROJECT_DIR$/client/fontawesome-webfont.674f50d287a8c48dc19b.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" afterPath="$PROJECT_DIR$/client/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fontawesome-webfont.b06871f281fee6b241d6.ttf" afterPath="$PROJECT_DIR$/client/fontawesome-webfont.b06871f281fee6b241d6.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fontawesome-webfont.fee66e712a8a08eef580.woff" afterPath="$PROJECT_DIR$/client/fontawesome-webfont.fee66e712a8a08eef580.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/galan-ppa.a6227ad0df053e085dc6.ttf" afterPath="$PROJECT_DIR$/client/galan-ppa.a6227ad0df053e085dc6.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/header.a110826c84ae956cfea0.jpg" afterPath="$PROJECT_DIR$/client/header.a110826c84ae956cfea0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/login_bg.f07883cf77e8d70cb839.jpg" afterPath="$PROJECT_DIR$/client/login_bg.f07883cf77e8d70cb839.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/optima-aia.420ec2edc4fff0c0aee7.ttf" afterPath="$PROJECT_DIR$/client/optima-aia.420ec2edc4fff0c0aee7.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/previsiones_beneficios.9ed49d233e2947f0d79a.jpg" afterPath="$PROJECT_DIR$/client/previsiones_beneficios.9ed49d233e2947f0d79a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/previsiones_fondo.f6d9dd7b48a0ed39f2f3.jpg" afterPath="$PROJECT_DIR$/client/previsiones_fondo.f6d9dd7b48a0ed39f2f3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/previsiones_planes.66835ee5c4dd2f505fe5.jpg" afterPath="$PROJECT_DIR$/client/previsiones_planes.66835ee5c4dd2f505fe5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/servicios-bg.3fcf66d802c3cfcadbfa.png" afterPath="$PROJECT_DIR$/client/servicios-bg.3fcf66d802c3cfcadbfa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/07B_PfqOq5pqlzTiaUq-ZAMJ.jpg" afterPath="$PROJECT_DIR$/uploads/07B_PfqOq5pqlzTiaUq-ZAMJ.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/0npYAn8qHitkfrJHwCsGDXYI.jpg" afterPath="$PROJECT_DIR$/uploads/0npYAn8qHitkfrJHwCsGDXYI.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/2SVbgJgSw6aSM8Z6iIpgq6Of.JPG" afterPath="$PROJECT_DIR$/uploads/2SVbgJgSw6aSM8Z6iIpgq6Of.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/3xsWVePFG-8kqYI6VxkZVthc.jpg" afterPath="$PROJECT_DIR$/uploads/3xsWVePFG-8kqYI6VxkZVthc.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/50DDN2WgvYBHFTHsF7CB7aOv.JPG" afterPath="$PROJECT_DIR$/uploads/50DDN2WgvYBHFTHsF7CB7aOv.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/55IhtbaBH1OzsGur2VGpT1Q4.jpg" afterPath="$PROJECT_DIR$/uploads/55IhtbaBH1OzsGur2VGpT1Q4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/62qbtj3WVvCxBja7ra3LPSio.jpg" afterPath="$PROJECT_DIR$/uploads/62qbtj3WVvCxBja7ra3LPSio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/6iXXKqjAfVMv6Vjll_Tj4f2O.JPG" afterPath="$PROJECT_DIR$/uploads/6iXXKqjAfVMv6Vjll_Tj4f2O.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/9QRxxidCeDknEzhMN1g0Fzma.jpg" afterPath="$PROJECT_DIR$/uploads/9QRxxidCeDknEzhMN1g0Fzma.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/AXXbqnw3V5NkKVA5RpqxfpCp.jpg" afterPath="$PROJECT_DIR$/uploads/AXXbqnw3V5NkKVA5RpqxfpCp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/AtugzDK44m2evXGYSZskpTfe.jpg" afterPath="$PROJECT_DIR$/uploads/AtugzDK44m2evXGYSZskpTfe.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/BRs8TW6e0qsMIywvKEwkMflt.JPG" afterPath="$PROJECT_DIR$/uploads/BRs8TW6e0qsMIywvKEwkMflt.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/BygGGeRykZuuCS1txrcYtp8q.jpg" afterPath="$PROJECT_DIR$/uploads/BygGGeRykZuuCS1txrcYtp8q.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/CEvT4hRZIs7S9KuJGw82E9gc.JPG" afterPath="$PROJECT_DIR$/uploads/CEvT4hRZIs7S9KuJGw82E9gc.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/CnP0j0730pdo4yjP_-GnEr5G.jpg" afterPath="$PROJECT_DIR$/uploads/CnP0j0730pdo4yjP_-GnEr5G.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/ErU-5zWpPas-XgRdc2Qy-RdC.jpg" afterPath="$PROJECT_DIR$/uploads/ErU-5zWpPas-XgRdc2Qy-RdC.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/KDTmu2q_QoPypiRaAqzuhfWN.jpg" afterPath="$PROJECT_DIR$/uploads/KDTmu2q_QoPypiRaAqzuhfWN.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/NfOiKghKMATOu-UWgYtHQmXN.JPG" afterPath="$PROJECT_DIR$/uploads/NfOiKghKMATOu-UWgYtHQmXN.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/Nvi0m5HN0J-cs-qcGjG-UFWh.jpg" afterPath="$PROJECT_DIR$/uploads/Nvi0m5HN0J-cs-qcGjG-UFWh.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/OwO6059BSxY9CB4l1BHrTY2F.JPG" afterPath="$PROJECT_DIR$/uploads/OwO6059BSxY9CB4l1BHrTY2F.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/Rh-FmXobwx3GxHNLrPq9KkXh.jpg" afterPath="$PROJECT_DIR$/uploads/Rh-FmXobwx3GxHNLrPq9KkXh.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/SnKLX7LMAXnHIbftJ9Nn8OCT.jpg" afterPath="$PROJECT_DIR$/uploads/SnKLX7LMAXnHIbftJ9Nn8OCT.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/U8Mnjt-t23OZMJWMi1NMhdiP.JPG" afterPath="$PROJECT_DIR$/uploads/U8Mnjt-t23OZMJWMi1NMhdiP.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/VSCv_n7IsFs7hWVT3DMFQxWP.jpg" afterPath="$PROJECT_DIR$/uploads/VSCv_n7IsFs7hWVT3DMFQxWP.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/e7bWZZUjyjS7XDe9nZoV3_xc.jpg" afterPath="$PROJECT_DIR$/uploads/e7bWZZUjyjS7XDe9nZoV3_xc.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/fmjlfbjfbG84NgfAw99n5OQN.jpg" afterPath="$PROJECT_DIR$/uploads/fmjlfbjfbG84NgfAw99n5OQN.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/021e5004a09f4fee91c6dba25d452639.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/021e5004a09f4fee91c6dba25d452639.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/043853cc3b3bc3b8a788194d36975557.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/043853cc3b3bc3b8a788194d36975557.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/06e874c975cb6472d969a91f030c09e2.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/06e874c975cb6472d969a91f030c09e2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/097b7eb38813e75098508b469f9c77cb.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/097b7eb38813e75098508b469f9c77cb.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/123005ddfc3f32261304cbd9bdc77b1f.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/123005ddfc3f32261304cbd9bdc77b1f.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/15da6e59bf2eb355fee00f38bd2ce6de.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/15da6e59bf2eb355fee00f38bd2ce6de.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/164a1196113eccf4b1b703a711506ca2.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/164a1196113eccf4b1b703a711506ca2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/180e915af2a93271744f3acdca3f7e6c.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/180e915af2a93271744f3acdca3f7e6c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/224a391759994f1258153c1e48d8e86d.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/224a391759994f1258153c1e48d8e86d.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/4957bb67e2f672590c3e64b4ec52484b.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/4957bb67e2f672590c3e64b4ec52484b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/4d5b507e346ed4d9ec6969e284512091.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/4d5b507e346ed4d9ec6969e284512091.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/541657b51e2e92fb131cbf4b6bab08dd.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/541657b51e2e92fb131cbf4b6bab08dd.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/552e385da705607018b9f48721199f80.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/552e385da705607018b9f48721199f80.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/56e2c2d818b5977fd08a49919f1b30c9.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/56e2c2d818b5977fd08a49919f1b30c9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/58a69e64b1b311043e9af63b19bc7cc8.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/58a69e64b1b311043e9af63b19bc7cc8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/5efbc7dea493c9580c74a853d1c9a76f.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/5efbc7dea493c9580c74a853d1c9a76f.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/5fb2b635efa4fa2bdb32e1464399dd1c.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/5fb2b635efa4fa2bdb32e1464399dd1c.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/6ea3bbaf6fdeeae08afef5976c6ac0f7.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/6ea3bbaf6fdeeae08afef5976c6ac0f7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/792d17d07f40a1de7dabd687b48385e9.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/792d17d07f40a1de7dabd687b48385e9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/8401e0024689339c321dfb0aa6ed5bfa.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/8401e0024689339c321dfb0aa6ed5bfa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/8622511aa329eebb1ac7bf1d48ecb482.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/8622511aa329eebb1ac7bf1d48ecb482.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/903804290f246cea4c90752bdbad6ab3.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/903804290f246cea4c90752bdbad6ab3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/9ae80a2fff07d2f9e7b5903f03bbbb17.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/9ae80a2fff07d2f9e7b5903f03bbbb17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/9f0b9e141e215291fb1bd72ce897b3bf.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/9f0b9e141e215291fb1bd72ce897b3bf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/a0ce89bfbe055841e650f535ae9d1a98.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/a0ce89bfbe055841e650f535ae9d1a98.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/a693046c575c35feb6fb2bc6155be8a1.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/a693046c575c35feb6fb2bc6155be8a1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/aa8da95be23cfe2331d27a8b844c4cee.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/aa8da95be23cfe2331d27a8b844c4cee.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/c2630eefb46bbfe4481d83ea6fd366c8.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/c2630eefb46bbfe4481d83ea6fd366c8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/c903b0f732b311cf68617025a747866a.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/c903b0f732b311cf68617025a747866a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/cc92c65fd71559ce4d5db15a3496e165.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/cc92c65fd71559ce4d5db15a3496e165.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/d47d7b6a5927054a36879ff13473d5a1.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/d47d7b6a5927054a36879ff13473d5a1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/e317fe53e4e042b5ff27fe441cd4893f.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/e317fe53e4e042b5ff27fe441cd4893f.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/ec3a95b263342fe7540d5f0fca2a4c80.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/ec3a95b263342fe7540d5f0fca2a4c80.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/ed205828ad581c41138f6368d38480af.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/ed205828ad581c41138f6368d38480af.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/eec1948dde8dc0af2180cd3e5351fec2.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/eec1948dde8dc0af2180cd3e5351fec2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/ef13d84fafa4ab75896279b9867e8b83.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/ef13d84fafa4ab75896279b9867e8b83.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/f3c77ac70b3e8e4dd52a89b450ab48ab.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/f3c77ac70b3e8e4dd52a89b450ab48ab.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/f44516afa06c023fbf630c6d4e18a7a4.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/f44516afa06c023fbf630c6d4e18a7a4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/f8a440dbadaa3e4619b5b4e93d0517d6.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/f8a440dbadaa3e4619b5b4e93d0517d6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/galeria/f9f4bd0194c3047c5dfcb6e67a39eecd.jpg" afterPath="$PROJECT_DIR$/uploads/galeria/f9f4bd0194c3047c5dfcb6e67a39eecd.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/idylsoRzjznPPvcHWPCGgmLi.jpg" afterPath="$PROJECT_DIR$/uploads/idylsoRzjznPPvcHWPCGgmLi.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/iyE5_vPQfY6cbl1aqqct-pEo.JPG" afterPath="$PROJECT_DIR$/uploads/iyE5_vPQfY6cbl1aqqct-pEo.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/m9uZJkVAtU0S2fFlOuRzw6em.jpg" afterPath="$PROJECT_DIR$/uploads/m9uZJkVAtU0S2fFlOuRzw6em.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/nl-0ZLMLEweog2A9grkPgloZ.JPG" afterPath="$PROJECT_DIR$/uploads/nl-0ZLMLEweog2A9grkPgloZ.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/oPrMnsxbe2kCTwJQjjgMJNkp.jpg" afterPath="$PROJECT_DIR$/uploads/oPrMnsxbe2kCTwJQjjgMJNkp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/obituario/1515525486125-boneless.jpg" afterPath="$PROJECT_DIR$/uploads/obituario/1515525486125-boneless.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/obituario/1515526504537-feliz año.jpg" afterPath="$PROJECT_DIR$/uploads/obituario/1515526504537-feliz año.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/obituario/1515526750433-00.jpeg" afterPath="$PROJECT_DIR$/uploads/obituario/1515526750433-00.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/obituario/1515526762621-04.jpeg" afterPath="$PROJECT_DIR$/uploads/obituario/1515526762621-04.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/obituario/1515718804746-uploadsgaleria.jpeg" afterPath="$PROJECT_DIR$/uploads/obituario/1515718804746-uploadsgaleria.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/ofCaSJR3SuuNNzDBvhrcFF_g.jpg" afterPath="$PROJECT_DIR$/uploads/ofCaSJR3SuuNNzDBvhrcFF_g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/poBEgMEROdtFL3wRyI-rpqfi.jpg" afterPath="$PROJECT_DIR$/uploads/poBEgMEROdtFL3wRyI-rpqfi.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/uo49m75WGOA_u6bLHoGxMXLA.JPG" afterPath="$PROJECT_DIR$/uploads/uo49m75WGOA_u6bLHoGxMXLA.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/ur_uivUuyH1uC_mzod3SaUlI.JPG" afterPath="$PROJECT_DIR$/uploads/ur_uivUuyH1uC_mzod3SaUlI.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/vUHiS6aOjxYRSE4KnHvj7c4B.jpg" afterPath="$PROJECT_DIR$/uploads/vUHiS6aOjxYRSE4KnHvj7c4B.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/wm99g2GAz0oUMAerd5aUOKFL.jpg" afterPath="$PROJECT_DIR$/uploads/wm99g2GAz0oUMAerd5aUOKFL.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/xlNX_iz9tFp8bu1wJGN3JtyY.JPG" afterPath="$PROJECT_DIR$/uploads/xlNX_iz9tFp8bu1wJGN3JtyY.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/0.cef44f9e046d90c3d834.chunk.js" afterPath="$PROJECT_DIR$/client/0.cef44f9e046d90c3d834.chunk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/1.7b27ded29d8708f75530.chunk.js" afterPath="$PROJECT_DIR$/client/1.7b27ded29d8708f75530.chunk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/3rdpartylicenses.txt" afterPath="$PROJECT_DIR$/client/3rdpartylicenses.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/iconos.svg" afterPath="$PROJECT_DIR$/client/assets/images/iconos.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/nosotros-svg.svg" afterPath="$PROJECT_DIR$/client/assets/images/nosotros-svg.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/assets/images/onda.svg" afterPath="$PROJECT_DIR$/client/assets/images/onda.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/fontawesome-webfont.912ec66d7572ff821749.svg" afterPath="$PROJECT_DIR$/client/fontawesome-webfont.912ec66d7572ff821749.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/inline.03b559792938f9f608b2.bundle.js" afterPath="$PROJECT_DIR$/client/inline.03b559792938f9f608b2.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.5da1b3fea32beb2dbbbc.bundle.js" afterPath="$PROJECT_DIR$/client/main.5da1b3fea32beb2dbbbc.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/polyfills.7974b2c3478144f86d0d.bundle.js" afterPath="$PROJECT_DIR$/client/polyfills.7974b2c3478144f86d0d.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/styles.6fe42f658123650a864d.bundle.css" afterPath="$PROJECT_DIR$/client/styles.6fe42f658123650a864d.bundle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.js" afterPath="$PROJECT_DIR$/config/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/contacto.js" afterPath="$PROJECT_DIR$/controllers/contacto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/coordenadas.js" afterPath="$PROJECT_DIR$/controllers/coordenadas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/galeria.js" afterPath="$PROJECT_DIR$/controllers/galeria.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/image.js" afterPath="$PROJECT_DIR$/controllers/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/obituario.js" afterPath="$PROJECT_DIR$/controllers/obituario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/servicios.js" afterPath="$PROJECT_DIR$/controllers/servicios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/sucursal.js" afterPath="$PROJECT_DIR$/controllers/sucursal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/user.js" afterPath="$PROJECT_DIR$/controllers/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middlewares/autenticacion.js" afterPath="$PROJECT_DIR$/middlewares/autenticacion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/galeria.js" afterPath="$PROJECT_DIR$/models/galeria.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/obituario.js" afterPath="$PROJECT_DIR$/models/obituario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/sucursal-coordenadas.js" afterPath="$PROJECT_DIR$/models/sucursal-coordenadas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/sucursal-imagenes.js" afterPath="$PROJECT_DIR$/models/sucursal-imagenes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/sucursal-servicios.js" afterPath="$PROJECT_DIR$/models/sucursal-servicios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/sucursal.js" afterPath="$PROJECT_DIR$/models/sucursal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/user.js" afterPath="$PROJECT_DIR$/models/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/contacto.js" afterPath="$PROJECT_DIR$/routes/contacto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/galeria.js" afterPath="$PROJECT_DIR$/routes/galeria.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/image.js" afterPath="$PROJECT_DIR$/routes/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/obituario.js" afterPath="$PROJECT_DIR$/routes/obituario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/sucursal.js" afterPath="$PROJECT_DIR$/routes/sucursal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/user.js" afterPath="$PROJECT_DIR$/routes/user.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="D:/Programas/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="D:/Angular/Funerales Altamira/funerales-altamira-BE" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f5e8c59-0bd8-47c9-881a-ac2226d83aa5" name="Default" comment="" />
+      <created>1518040418631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518040418631</updated>
+      <workItem from="1518040420865" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

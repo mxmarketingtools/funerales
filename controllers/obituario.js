@@ -21,7 +21,7 @@ function nuevoRegistro(req, res) {
 
         var file_name = 'No subido...';
         var file_path = req.files[0].path;
-        var file_split = file_path.split('\\');
+        var file_split = file_path.split('/');
         file_name = file_split[1] + path.extname(req.files[0].originalname);
         var filename = (new Date).valueOf() + '-' + req.files[0].originalname;
         fs.rename(req.files[0].path, 'uploads/obituario/' + filename, (err) => {
