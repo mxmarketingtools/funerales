@@ -16,24 +16,18 @@ app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
 // Configurar Cabeceras
-<<<<<<< HEAD
-app.use((req, res, next) = > {
+app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', 'http://localhost:3700');
 res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS');
 res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With');
-=======
-app.use((req, res, next) => {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    res.header("Access-Control-Allow-Methods", "POST, GET, PUT, DELETE, OPTIONS");
->>>>>>> 1beea1b580ebe5708a70b1de471310bad470f81c
 // allow preflight
 if (req.method === 'OPTIONS') {
     res.send(200);
 } else {
     next();
 }
-});
+})
+;
 
 // rutas base
 app.use('/', express.static('client', {redirect: false}))
@@ -47,9 +41,5 @@ app.use('/contacto', contacto_routes);
 app.get('*', function (req, res, next) {
     res.sendFile(path.resolve('client/index.html'));
 });
-<<<<<<< HEAD
 
 module.exports = app;
-=======
-module.exports = app;
->>>>>>> 1beea1b580ebe5708a70b1de471310bad470f81c
