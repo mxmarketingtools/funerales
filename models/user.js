@@ -14,6 +14,6 @@ var UserSchema = new Schema({
     role: {type: String, required: true, default:'usuario', enum: rolesValidos}
 });
 
-UserSchema.plugin(uniqueValidator, {message: 'El {PATH} debe de ser único'});
+UserSchema.plugin(uniqueValidator, {message: 'El {PATH} ya existe. El email debe ser único'});
 
 module.exports = mongoose.model('User', UserSchema);

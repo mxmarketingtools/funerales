@@ -132,6 +132,8 @@ function uploadImage(req, res) {
     var file_name = 'No subido...';
 
     if (req.files) {
+        console.log(req.files);
+        console.log()
         var file_path = req.files.image.path;
         var file_split = file_path.split('/');
         file_name = file_split[1];
