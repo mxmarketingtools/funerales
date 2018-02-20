@@ -14,10 +14,15 @@ let transporter = nodemailer.createTransport({
 
 function correoContacto(req, res) {
     const body = req.body;
-    console.log(body);
     let mailOptions = {
         from: 'soporte@mxmarketingtools.com', // sender address
-        to: 'soporte@mxmarketingtools.com', // list of receivers
+        to: [
+            'contacto@funeralesaltamira.com',
+            'soporte@mxmarketingtools.com',
+            'aiamartha@previsiones.com.mx',
+            'auditoria@previsiones.com.mx',
+            'vinculacion@previsiones.com.mx'
+        ], // list of receivers
         subject: 'Tienes un nuevo mensaje de contacto de parte de: ' + body.nombre, // Subject line
         // text: 'Nuevo correo de ' + body.correo, // plain text body
         html: '<b>Nombre:</b>' + '</br>' + body.nombre + '</br>' + '<b>Correo:</b>' + '</br>' + body.email + '</br>' +
