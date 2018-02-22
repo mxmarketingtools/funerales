@@ -1,12 +1,12 @@
 const nodemailer = require('nodemailer');
 
 let transporter = nodemailer.createTransport({
-    host: 'mail.mxmarketingtools.com',
+    host: 'mail.funeralesaltamira.com',
     port: 587,
     secure: false,
     auth: {
-        user: 'soportemxtools',
-        pass: 'soporte001'
+        user: 'contacto@funeralesaltamira.com',
+        pass: 'Cont2004'
     },
     tls: {rejectUnauthorized: false},
     debug: true
@@ -15,7 +15,7 @@ let transporter = nodemailer.createTransport({
 function correoContacto(req, res) {
     const body = req.body;
     let mailOptions = {
-        from: 'soporte@mxmarketingtools.com', // sender address
+        from: 'contacto@funeralesaltamira.com', // sender address
         to: [
             'contacto@funeralesaltamira.com',
             'soporte@mxmarketingtools.com',
