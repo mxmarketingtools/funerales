@@ -19,7 +19,7 @@ function getSucursal(req, res) {
 }
 
 function getSucursales(req, res) {
-    Sucursal.find({}, (err, sucursales) => {
+    Sucursal.find({}).sort({'_id': 1}).exec((err, sucursales) => {
         if(err){
             res.status(500).send({mensaje: 'Error en la petición'});
         }else{
@@ -33,6 +33,7 @@ function getSucursales(req, res) {
         }
     });
 }
+
 
 function updateSucursal(req, res) {
     const sucursalId = req.params.id;
