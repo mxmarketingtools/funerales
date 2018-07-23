@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5b549eb3a279bd52e836ea4b" }, "updatedAt" : { "$date" : "2018-07-22T15:11:47.789+0000" }, "created_at" : { "$date" : "2018-07-22T15:11:47.789+0000" }, "imagen" : { "$oid" : "5a81c25290667d530cc2ddc1" }, "sucursal" : { "$oid" : "5a81cc0090667d530cc2ddf7" }, "apellidoMaterno" : "IBAÑEZ", "apellidoPaterno" : "MATESANZ ", "nombre" : "MARIA MATILDE ", "__v" : 0 }

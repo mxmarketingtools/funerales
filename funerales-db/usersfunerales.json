@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5a8b5acec1ace00e075ce117" }, "nombre" : "Administrador Funerales", "email" : "admin@funeralesaltamira.com", "password" : "$2a$10$OI0ucxP186JpSeT6hS5Xa.k.ytp6f5rXJxh96CrU3EQa0bMEoFCeC", "role" : "administrador", "__v" : 0 }
